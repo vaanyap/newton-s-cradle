@@ -3,3 +3,6 @@
 After pressing the up arrow key:
 <img width="798" alt="Screen Shot 2021-07-20 at 1 07 20 PM" src="https://user-images.githubusercontent.com/71617367/126366160-2bf2e34b-bb11-4347-83a5-bad95a22bde4.png">
 <img width="798" alt="Screen Shot 2021-07-20 at 1 07 36 PM" src="https://user-images.githubusercontent.com/71617367/126366194-b6dbc288-ddd6-4087-8e61-83c6333ae938.png">
+
+Check it out for yourself!
+https://vaanyap.github.io/newton-s-cradle/
